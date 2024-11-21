@@ -4,7 +4,7 @@
 Shloka Shetty
 
 ## Overview
-The Personal Finance Dashboard simplifies complex financial data, offering actionable insights to enhance budgeting, savings, and investment decisions. By identifying spending patterns and providing real-time feedback, it helps users optimize their financial strategies and improve financial literacy, empowering them to make informed decisions in today’s dynamic financial environment.
+This project simplifies complex financial data, offering actionable insights to enhance budgeting, savings, and investment decisions. By identifying spending patterns and providing real-time feedback, it helps users optimize their financial strategies and improve financial literacy, empowering them to make informed decisions in today’s dynamic financial environment.
 
 ## Key Features
 
